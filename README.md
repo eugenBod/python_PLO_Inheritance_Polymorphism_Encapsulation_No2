@@ -1,0 +1,1 @@
+# python_PLO_Inheritance_Polymorphism_Encapsulation_No2
